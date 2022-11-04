@@ -114,3 +114,7 @@ main {
 .stats-box > p {
     margin-top: .5625rem;
 }
+
+.hidden {
+    display: none;
+}
