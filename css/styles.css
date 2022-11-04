@@ -40,7 +40,7 @@ main {
     height: 100vh;
     overflow: hidden;
     background-color: #19A1AE;
-    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-top.svg);
+    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
     background-position: left 50vw top 45vh, right 50vw bottom 45vh;
     background-repeat: no-repeat;
 }
